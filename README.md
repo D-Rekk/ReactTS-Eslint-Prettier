@@ -3,6 +3,6 @@
  
  Use these commands:
  ```
- pnpx degit D-Rekk/ReactTS-Eslint-Prettier TO_DELETE
+ pnpx degit D-Rekk/ReactTS-Eslint-Prettier project_Name
  pnpm install
  ```
