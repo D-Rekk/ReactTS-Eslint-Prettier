@@ -3,6 +3,6 @@
  
  Use these commands:
  ```
- gh repo clone D-Rekk/ReactTS-Eslint-Prettier
+ pnpx degit D-Rekk/ReactTS-Eslint-Prettier TO_DELETE
  pnpm install
  ```
