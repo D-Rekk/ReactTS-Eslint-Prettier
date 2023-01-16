@@ -1,5 +1,9 @@
+#EXCLUDE MACOS PATH INFO
 .DS_store
+
+#OTHERS
 node_modules
 *.txt
 .env
 .sass-cache
+
